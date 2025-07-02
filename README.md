@@ -50,7 +50,7 @@ I specialize in building user-centered designs that are both intuitive and funct
 ## 📬 Let's Connect
 
 - GitHub: [github.com/saad-n-mohammed](https://github.com/saad-n-mohammed)
-- Email: *saadnawafmohammed@gmail.com*  
+- Email: *saad.23cs156@student.uomosul.edu.iq*  
 
 ---
 
