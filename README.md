@@ -1,63 +1,59 @@
-# 👋 Hi there, I'm Saad Nawaf
+# 👋 Hello, I'm Saad Nawaf Mohammed
 
-### 💻 Front-End Developer | UX Enthusiast | Clean UI Advocate
-
----
-
-I'm a passionate front-end developer who crafts seamless and user-friendly web interfaces.  
-My focus is building clean, accessible, and visually balanced experiences using modern technologies.
+### 💻 Front-End Developer | UX Designer | SQL Specialist
 
 ---
 
-## 🚀 Tech Stack
-
-- 🌐 HTML | CSS | JavaScript  
-- 🐍 Python (for scripts & tooling)  
-- 🎨 UX/UI Design Principles  
-- ⚙️ Responsive Design | Clean Code Practices  
+I'm a passionate front-end developer who focuses on crafting clean, accessible, and visually pleasing web interfaces.  
+I specialize in building user-centered designs that are both intuitive and functional, backed with solid front-end and database skills.
 
 ---
 
-## 🧰 Tools & Platforms
+## 🛠️ Skills & Expertise
 
-![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/Hosting-GitHub-181717?style=for-the-badge&logo=github)
+- ✅ **Languages**: HTML, CSS, JavaScript, Python  
+- ✅ **Database Design & SQL**: Efficient schema design, writing optimized queries, and managing data with precision  
+- ✅ **UX/UI**: Focused on creating seamless and clean user experiences  
+- ✅ **Code Quality**: Clean, maintainable, and well-documented code
+
+---
+
+## 🚀 Tools & Technologies
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/Code-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma)
+![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## 🌟 What I Care About
+## 🌟 Featured Projects
 
-- ✨ Designing intuitive interfaces  
-- 🎯 Prioritizing user experience  
-- 📐 Writing structured, maintainable code  
-- 📱 Building responsive layouts across devices  
+> Alot of exciting projects coming soon...
 
 ---
 
-## 📂 Featured Projects
+## 🧠 Currently Working On
 
->Coming soon...
-
----
-
-## 📈 Currently Working On
-
-- Enhancing accessibility in front-end design  
-- Learning modern JS frameworks  
-- Improving Python scripting for automation
+- 🔍 Deepening my understanding of responsive design patterns  
+- 🧩 Improving accessibility and performance  
+- 🛠️ Enhancing backend integration using Python & SQL  
+- 🎯 Building modular and scalable UI components  
 
 ---
 
-## 📫 Let's Connect
+## 📬 Let's Connect
 
-Feel free to reach out or check out more of my work:
-
-- GitHub: [github.com/saad-n-mohammed](https://github.com/saad-n-mohammed)  
-- E-Mail: *www.saadnawafmohammed@gmail.com*
+- GitHub: [github.com/saad-n-mohammed](https://github.com/saad-n-mohammed)
+- Email: *saadnawafmohammed@gmail.com*  
 
 ---
 
-### 🔥 “Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs
+> “Design is intelligence made visible.” – Alina Wheeler
 
+---
